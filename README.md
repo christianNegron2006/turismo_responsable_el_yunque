@@ -1,2 +1,2 @@
 # turismo_responsable_el_yunque
-Pagina informativa sobre el turismo responsable en El Yunque
+Advocacy Web Page para promover el turismo responsable y la protección de El Yunque.
